@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haliamcn
-- 👀 I’m interested in System Administration and Splunk related stuff
+- 👀 I’m interested in System Administration, Infrastructure-as-Code and Splunk related stuff
 - 🌱 I’m currently learning Python, Red Hat Enterprise Linux, and Bash
 - 💞️ I’m looking to collaborate on basic system administration scripting through Python
 - 📫 How to reach me ... privately on GitHub
